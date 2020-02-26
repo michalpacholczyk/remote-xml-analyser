@@ -15,18 +15,18 @@ mvn spring-boot:run
 ### Build local container and run it
 Building:
 ```
-docker build -t remote-xml-analyser-docker .
+docker build -t remote-xml-analyser .
 ```
 Running:
 ```
-docker run -p 8080:8080 -t remote-xml-analyser-docker .
+docker run -p 8080:8080 -t remote-xml-analyser .
 ```
 ### Pull remote container and run it
 Pulling:
 ```
-docker pull michalpacholczykit/remote-xml-analyser-docker:analyser
+docker pull michalpacholczykit/remote-xml-analyser:analyser
 ```
 Running:
 ```
-docker run -p 8080:8080 -t michalpacholczykit/remote-xml-analyser-docker .
+docker run -p 8080:8080 -t michalpacholczykit/remote-xml-analyser .
 ```
