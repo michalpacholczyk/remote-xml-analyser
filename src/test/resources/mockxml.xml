@@ -1,0 +1,8 @@
+<posts>
+    <row Id="1" PostTypeId="1" AcceptedAnswerId="5" CreationDate="2015-07-14T18:39:27.757" Score="4" ViewCount="123" Body="Body..." LastActivityDate="2015-07-15T16:43:23.787" Title="Which Arabic are we talking about?" AnswerCount="5" CommentCount="4"/>
+    <row Id="2" PostTypeId="2" ParentId="1" CreationDate="2015-07-14T18:42:42.553" Score="0" Body="Body..." OwnerUserId="20" LastActivityDate="2015-07-14T18:42:42.553" CommentCount="0"/>
+    <row Id="3" PostTypeId="2" ParentId="1" CreationDate="2015-07-14T19:16:18.303" Score="1" Body="Body..." OwnerUserId="20" LastActivityDate="2015-07-14T18:42:42.553" CommentCount="0"/>
+    <row Id="4" PostTypeId="2" ParentId="1" CreationDate="2015-07-14T20:05:50.737" Score="5" Body="Body..." OwnerUserId="20" LastActivityDate="2015-07-14T18:42:42.553" CommentCount="0"/>
+    <row Id="5" PostTypeId="2" ParentId="1" CreationDate="2015-07-14T18:42:42.553" Score="2" Body="Body..." OwnerUserId="20" LastActivityDate="2015-07-14T18:42:42.553" CommentCount="0"/>
+    <row Id="6" PostTypeId="2" ParentId="1" CreationDate="2015-07-14T20:06:44.950" Score="0" Body="Body..." OwnerUserId="20" LastActivityDate="2015-07-14T18:42:42.553" CommentCount="0"/>
+</posts>
